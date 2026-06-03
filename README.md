@@ -1,4 +1,4 @@
-# Neo Chatbot
+# Basic Chatbot
 
 A simple Python chatbot built using:
 
